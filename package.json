@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/boxeng/learn-react/issues"
   },
-  "homepage": "https://github.com/boxeng/learn-react#readme"
+  "homepage": "https://github.com/boxeng/learn-react#readme",
+  "dependencies": {
+    "react": "^16.6.3"
+  }
 }
